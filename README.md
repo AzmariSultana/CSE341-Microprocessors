@@ -31,3 +31,7 @@ https://youtube.com/playlist?list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&si=cIFuRzyf
 ```text
 https://youtube.com/playlist?list=PLCh3_NUqW7_JKPROcvmNlr1t0QWmflRIy&si=_9kk-q3jpf_EFfwQ
 ```
+# Lab 01 (NWT)
+```text
+https://youtu.be/pQWMFIG2-8E?si=mTa7qnpaH4OQB3aI
+```
