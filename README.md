@@ -35,3 +35,22 @@ https://youtube.com/playlist?list=PLCh3_NUqW7_JKPROcvmNlr1t0QWmflRIy&si=_9kk-q3j
 ```text
 https://youtu.be/pQWMFIG2-8E?si=mTa7qnpaH4OQB3aI
 ```
+# Lab 04
+```text
+https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
+```
+```text
+https://youtu.be/-sIKR9aT5KI?si=Hb_ZX1TQhBJ1aFky
+```
+# Lab 05
+```text
+https://youtu.be/qq1fFnnGUbM?si=o-yZlvtuddCcKdTF
+```
+# Lab 06
+```text
+https://youtu.be/0eF7P14dD_w?si=VXXfgswwAshch0PS
+```
+# Lab 07
+```text
+https://youtu.be/gdt9ws7K6Y4?si=MpdgRK706z20H5bF
+```
