@@ -39,6 +39,10 @@ https://www.youtube.com/watch?v=ppgNpsD0D04&list=PL9aZtK5kh5Wew0eD68a0g-CKIWXINj
 ```text
 https://youtu.be/pQWMFIG2-8E?si=mTa7qnpaH4OQB3aI
 ```
+# Lab 02
+```text
+https://youtu.be/Ie_v6Vax3XA?si=2iK-cq0YpH9Udcmz
+```
 # Lab 04
 ```text
 https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
