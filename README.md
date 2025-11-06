@@ -43,6 +43,10 @@ https://youtu.be/pQWMFIG2-8E?si=mTa7qnpaH4OQB3aI
 ```text
 https://youtu.be/Ie_v6Vax3XA?si=2iK-cq0YpH9Udcmz
 ```
+# Lab 03
+
+    https://youtu.be/3ABGRyYmVcE?si=cVsvyKqefWLseftZ
+
 # Lab 04 (NWT)
 ```text
 https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
