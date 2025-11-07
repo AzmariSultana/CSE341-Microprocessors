@@ -43,28 +43,25 @@ https://youtu.be/pQWMFIG2-8E?si=mTa7qnpaH4OQB3aI
 ```text
 https://youtu.be/Ie_v6Vax3XA?si=2iK-cq0YpH9Udcmz
 ```
-# Lab 03
-
-    https://youtu.be/3ABGRyYmVcE?si=cVsvyKqefWLseftZ
-```text
-https://youtu.be/Lo8sc5fmtVU?si=_Iz1MDwbDtdbsBvR
-```
-# Lab 04 (NWT)
+# Lab 03 (NWT)
 ```text
 https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
 ```
 ```text
 https://youtu.be/-sIKR9aT5KI?si=Hb_ZX1TQhBJ1aFky
 ```
-# Lab 05 (NWT)
+```text
+https://youtu.be/3ABGRyYmVcE?si=DfQGtvN4Ssc8c46z
+```
+# Lab 04 (NWT)
 ```text
 https://youtu.be/qq1fFnnGUbM?si=o-yZlvtuddCcKdTF
 ```
-# Lab 06 (NWT)
+# Lab 05 (NWT)
 ```text
 https://youtu.be/0eF7P14dD_w?si=VXXfgswwAshch0PS
 ```
-# Lab 07 (NWT)
+# Lab 06 (NWT)
 ```text
 https://youtu.be/gdt9ws7K6Y4?si=MpdgRK706z20H5bF
 ```
