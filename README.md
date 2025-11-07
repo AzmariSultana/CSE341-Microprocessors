@@ -47,6 +47,8 @@ https://youtu.be/Ie_v6Vax3XA?si=2iK-cq0YpH9Udcmz
 
     https://youtu.be/3ABGRyYmVcE?si=cVsvyKqefWLseftZ
 
+    https://youtu.be/Lo8sc5fmtVU?si=_Iz1MDwbDtdbsBvR
+
 # Lab 04 (NWT)
 ```text
 https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
