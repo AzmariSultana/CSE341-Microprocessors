@@ -50,15 +50,15 @@ https://youtu.be/UxoJb27gB3g?si=EUWzw3iZn5cdG-le
 ```text
 https://youtu.be/3ABGRyYmVcE?si=DfQGtvN4Ssc8c46z
 ```
-# Lab 04 (NWT)
+# Lab 04- Array (NWT)
 ```text
 https://youtu.be/qq1fFnnGUbM?si=o-yZlvtuddCcKdTF
 ```
-# Lab 05 (NWT)
-```text
-https://youtu.be/0eF7P14dD_w?si=VXXfgswwAshch0PS
-```
-# Lab 06 (NWT)
+# Lab 04- Stack (NWT)
 ```text
 https://youtu.be/gdt9ws7K6Y4?si=MpdgRK706z20H5bF
+```
+# Lab 05- Macros (NWT)
+```text
+https://youtu.be/0eF7P14dD_w?si=VXXfgswwAshch0PS
 ```
