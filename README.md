@@ -27,6 +27,10 @@ https://youtube.com/playlist?list=PL2ETCwNgERAIJ7wC9rZrr0ZIppg8K8u_T&si=9k_SsPRu
 ```text
 https://youtube.com/playlist?list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&si=cIFuRzyf3glRrnBR
 ```
+# PIC
+```text
+https://youtu.be/NUCjhq9qKwo?si=MdyTGJBCyDCLMjwE
+```
 # Others
 ```text
 https://youtube.com/playlist?list=PLCh3_NUqW7_JKPROcvmNlr1t0QWmflRIy&si=_9kk-q3jpf_EFfwQ
