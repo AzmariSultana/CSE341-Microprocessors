@@ -1,0 +1,36 @@
+.MODEL SMALL
+ 
+.STACK 100H
+
+.DATA
+
+; declare variables here 
+
+
+.CODE
+MAIN PROC
+
+; initialize DS
+
+MOV AX,@DATA
+MOV DS,AX
+ 
+; enter your code here
+;Read a character, and display it at the next position on the same line.
+
+MOV AH,1
+int 21H
+ADD AL,1 
+MOV DL,AL
+MOV AH,2
+int 21H
+
+ 
+
+;exit to DOS
+               
+MOV AX,4C00H
+INT 21H
+
+MAIN ENDP
+    END MAIN
