@@ -1,0 +1,54 @@
+.MODEL SMALL
+ 
+.STACK 100H
+
+.DATA
+
+; declare variables here
+
+SEGMENT_A DB "ACEGI"
+SEGMENT_B DB "BDFHJ"
+
+.CODE
+MAIN PROC
+
+; initialize DS
+
+MOV AX,@DATA
+MOV DS,AX
+ 
+; enter your code here
+;EVALUATION 2
+
+MOV CX,5
+MOV SI,0
+
+READ:
+MOV AL, SEGMENT_A[SI]
+MOV AH,0
+PUSH AX 
+
+MOV AL, SEGMENT_B[SI]
+MOV AH,0
+PUSH AX 
+INC SI 
+LOOP READ
+
+MOV CX,10
+
+OUTPUT_LOOP:
+POP BX
+MOV DX,BX 
+MOV AH,2
+INT 21H 
+MOV DX,32
+INT 21H
+LOOP OUTPUT_LOOP 
+
+;exit to DOS
+               
+MOV AX,4C00H
+INT 21H
+
+MAIN ENDP
+    END MAIN
